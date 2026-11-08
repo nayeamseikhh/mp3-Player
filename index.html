@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="MyMusicPlayer - Offline Music Player for macOS M1" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' file:; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: file: music:; media-src 'self' file: music:; font-src 'self' data:; connect-src 'self' http://localhost:5174 ws://localhost:5174;" />
+    <title>MyMusicPlayer</title>
+    <script type="module" src="/suppress-react-devtools.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

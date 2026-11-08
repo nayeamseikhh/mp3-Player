@@ -1,0 +1,1 @@
+import{b as r}from"./index-kKWy26hU.js";function y(e,n=e==null?void 0:e[0]){if(!Array.isArray(e)||e.length===0||!n)return;const i=r.getState(),t=e.findIndex(o=>o.id===n.id);i.setQueue(e),i.setCurrentTrack(n,Math.max(t,0)),i.setIsPlaying(!0)}export{y as p};

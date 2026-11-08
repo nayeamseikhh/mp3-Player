@@ -1,0 +1,13 @@
+- [phase-3-progress](phase-3-progress.md) — Current status of Phase 3 (SQLite, import, metadata, library)
+- [phase-5-playlists](phase-5-playlists.md) — Phase 5 status (playlist management, favorites, library views)
+- [phase-6-progress](phase-6-progress.md) — Phase 6 status (audio visualization, sleep timer, lyrics)
+- [phase-7-progress](phase-7-progress.md) — Phase 7 status (dashboard widget builder, dynamic widgets)
+- [phase-8-progress](phase-8-progress.md) — Phase 8 status (final polish, settings completion, ARM64 packaging)
+- [phase-9-progress](phase-9-progress.md) — Phase 9 status (ARM64 packaging, installation testing, final docs)
+- [phase-10-progress](phase-10-progress.md) — Phase 10 status (final polish, remaining gaps)
+- [backup-restore-implementation](backup-restore-implementation.md) — Database backup and restore feature implementation
+- [phase-20-progress](phase-20-progress.md) — Phase 20 status (offline data synchronization)
+- [phase-22-progress](phase-22-progress.md) — Phase 22 status (conflict resolution UI)
+- [phase-23-progress](phase-23-progress.md) — Phase 23 status (sync integration & dashboard)
+- [phase-24-progress](phase-24-progress.md) — Phase 24 status (sync enhancements)
+- [phase-25-progress](phase-25-progress.md) — Phase 25 status (ID3 tag editor)
