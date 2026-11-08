@@ -1,1 +1,23 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-electron/
+build/
+
+# Electron generated files
+release/
+out/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
